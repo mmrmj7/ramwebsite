@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Solartec Mobile",
+    "slug": "solartec-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": null,
+    "splash": {},
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.solartec.mobile" },
+    "web": {}
+  }
+}
+
